@@ -127,88 +127,62 @@ section img#foreground
 
 .sec{
   position: relative;
-  padding: 100px;
-  background: #abc4ff;
+  padding: 72px;
+  background: #b2c9fe;
 }
 
 .sec h2{
   font-size: 3.5em;
   margin-bottom: 10px;
   color: #fff;
+  margin-left: 1.46em;
 }
 
-.sec h4{
-  font-size: 1em;
+.sec p{
+  font-size: 2.5em;
   color: #fff;
+  margin-left: 2em;
+  padding-right: 2em;
 }
 
-/*nav bar - home*/
-/*.bar {
-  position: fixed;
-  justify-content: flex-end;
-  float: right;
-  background-color: #F4F4F9 ;
-  overflow: hidden;
-  padding: 8px;
-  width: 99%;
-  z-index: 8;
-}
 
-/* navigation bar sections */
-/*.bar a {
-  float: right;
-  color: black;
-  text-align: center;
-  padding-top: 20px;
-  padding: 20px 16px;
-  text-decoration: none;
-  font-size: 17px;
-  display: flex;
-}
-
-/* hover for each nav bar section */
-/*.bar a:hover {
-  background-color: #b8c0ff;
-  color:    black;
-  border-radius: 10%
-}
-
-/* highlight projects section */
-/*.bar a.home {
-  background-color: #ff5100;
-  color:   black;
-  border-radius: 10%
-}
-
-/* SWEPT title */
-/*.title{
-  position: absolute;
-  color: black;
-  font-size: 19px;
-  left: 26px;
-  font-weight: 300;
-}
-
-.card{
-  display: flex;
-  align-content: center;
-  justify-content: center;
-}
-/*nav bar - home*/
 
 /*portrait photo - home*/
-/*.portrait{
-  text-align: center;
-}
-
 .photo{
   height: 19%;
   width: 19%;
   border-radius: 80%;
+  margin-right:55px;
+  border: 15px solid #8e94c2;
 }
 
+.sec1 {
+  position: relative;
+  padding: 0px;
+  background: #b2c9fe;
+}
+#btn1{
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 30px;
+  border-radius: 40px;
+  background: #fff;
+  margin-left: 6.5em;
+  color: #6b708e;
+  font-size: 1.5em;
+}
 
+footer {
+  size: 2em;
+  align-items: left;
+  margin-left: 8.5em;
+  padding: 20px;
+}
 
+.p1 {
+  font-size: 1.2em;
+  
+}
 
 /*-- background image--*/
 /*body {
