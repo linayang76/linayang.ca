@@ -136,6 +136,8 @@ section img#foreground
   margin-bottom: 10px;
   color: #fff;
   margin-left: 1.46em;
+  background: url("") no-repeat 100% 100%;
+  background-size: 100% 50%;
 }
 
 .sec p{
@@ -181,6 +183,14 @@ footer {
 
 .p1 {
   font-size: 1.2em;
+  color:#3c4058;
+}
+
+/*mark {
+  display: inline-block;
+  line-height: 0em;
+  padding-bottom: 0.5em;
+  color:white;
   
 }
 
